@@ -17,6 +17,10 @@ A scalable, cloud-native solution for automated code deployment using AWS ECS, S
 
 ---
 
+## 🔁 Process Flow
+![Screenshot (28)](https://github.com/user-attachments/assets/4275d1f1-eb87-434f-8c8b-f8447ef9057f)
+
+---
 ## 🚀 Workflow Overview
 
 1. **API Server**
